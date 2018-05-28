@@ -1,0 +1,1 @@
+(((((Cpapaya:91,Tcacao:91):8,(Cclementina:6,Csinensis:6):93):7,Rcommunis:106):1,(Ppersica:100,Fvesca:100):7):3,Vvinifera:110);

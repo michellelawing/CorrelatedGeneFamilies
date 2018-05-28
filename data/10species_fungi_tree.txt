@@ -1,0 +1,1 @@
+((Yarrowia_lipolytica:0.7732,Arxula_adeninivorans:0.6174):0.0673,(((Hyphopichia_burtonii:0.3095,(Candida_tanzawaensis:0.337,Debaryomyces_hansenii:0.2499):0.0217):0.4126,Komagataella_pastoris:0.7359):0.0496,((Eremothecium_gossypii:0.4566,Kluyveromyces_lactis:0.4816):0.0954,(Torulaspora_delbrueckii:0.2382,Zygosaccharomyces_rouxii:0.2915):0.1874):0.5606):0.3421);
